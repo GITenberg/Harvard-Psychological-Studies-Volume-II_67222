@@ -1,5 +1,8 @@
 _repo: Harvard-Psychological-Studies-Volume-II_67222
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67222-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5888
     wikipedia: http://en.wikipedia.org/wiki/Hugo_M%C3%BCnsterberg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67222#Harvard-Psychological-Studies-Volume-II
 gutenberg_issued: '2022-01-22'
 identifiers:
   gutenberg: '67222'
